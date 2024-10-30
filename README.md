@@ -1,4 +1,4 @@
-# Gamma
+# gamma
  fast but limited: entropix like sampler strategies + llama cpp python + gguf.
 
 
